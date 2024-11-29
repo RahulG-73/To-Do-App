@@ -4,5 +4,7 @@ A simple and interactive to-do list application built with React. Users can add,
 # Screenshot
 Here we have project screenshot :
 
-[screenshot.jpg](https://github.com/RahulG-73/To-Do-App/blob/66b4400f4fc0ca0b4e5026bc5ac52fd4c925be64/To-Do%20Screenshot.PNG)
+
+
+![screenshot]([screenshot.jpg)](https://github.com/RahulG-73/To-Do-App/blob/66b4400f4fc0ca0b4e5026bc5ac52fd4c925be64/To-Do%20Screenshot.PNG).
 
